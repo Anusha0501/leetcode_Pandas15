@@ -1,4 +1,4 @@
-#2882. Drop Duplicate Rows
+#2883. Drop Missing Data
 
 import pandas as pd
 
