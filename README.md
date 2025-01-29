@@ -1,4 +1,4 @@
-# LeetCode Pandas Study Plan - Completed
+# LeetCode Pandas Study Plan - Completed ✅
 
 This repository contains the solutions to the **LeetCode Pandas Study Plan**, which I completed and earned the corresponding badge.
 
@@ -21,7 +21,7 @@ The "Introduction to Pandas" study plan on LeetCode is designed to familiarize l
 - Grouping and aggregation operations
 - Sorting and ordering data
 
-## Badge Achieved
+## Badge Achieved 🎉
 
 I successfully completed the study plan and earned the **Pandas Study Plan Badge** on LeetCode.
 
